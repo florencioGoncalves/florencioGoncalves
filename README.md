@@ -3,14 +3,13 @@
 - 🔭 Estou trabalhando com front-end
 - 🌱 Estou estudando Node.js e Flutter ...
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/a/AGNmyxYVRROjU5k3TIMU3vX2_6T9pd-g5o_8iqEhplXbXg=s96-c-rg-br100">
+  <img align="right" alt="pic" height="100" style="border-radius:50%;" src="https://lh3.googleusercontent.com/a/AGNmyxYVRROjU5k3TIMU3vX2_6T9pd-g5o_8iqEhplXbXg=s96-c-rg-br100">
 </div>
   
   ##
