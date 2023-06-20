@@ -12,6 +12,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://img.icons8.com/color/48/sass.png">
   <img align="center" alt="node-js" title="node-js" height="30" width="30" src="https://img.icons8.com/fluency/48/node-js.png">
+  <img align="center" alt="php-logo" width="40" height="30" src="https://img.icons8.com/officel/16/php-logo.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   <br/>
@@ -29,6 +30,7 @@
   <a href="https://www.linkedin.com/in/flor%C3%AAncio-gon%C3%A7alves-34a179242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:florenciopaul@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/florencio_goncalves06/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discordapp.com/users/florencioG#8143" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <br/>
   
   <div style="width: max-content; text-align: center; margin: 1rem auto 0;">
