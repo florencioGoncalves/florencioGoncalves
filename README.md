@@ -12,7 +12,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://img.icons8.com/color/48/sass.png">
   <img align="center" alt="node-js" title="node-js" height="30" width="30" src="https://img.icons8.com/fluency/48/node-js.png">
-  <img align="center" alt="php-logo" width="40" height="30" src="https://img.icons8.com/officel/16/php-logo.png">
+  <img align="center" alt="php-logo" height="30" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-PHP-programming-and-development-those-icons-flat-those-icons.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   <br/>
