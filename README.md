@@ -5,6 +5,12 @@
 - 😄 - "O humor influencia no jeito que desenvolvemos a lógica para resolver problemas."
 </div>
 
+<div>
+ <br>
+<img height="max-content" src="https://github-readme-stats.vercel.app/api?username=florenciogoncalves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<br> 
+<img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=florenciogoncalves&theme=tokyonight&layout=compact' />
+</div>
  # Tecnologias
 <div style="display: flex; margin: 0; padding: 0;">
 
