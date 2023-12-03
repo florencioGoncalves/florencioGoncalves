@@ -1,8 +1,7 @@
 ## Olá! Sou o Florêncio Gonçalves, prazer!
 <div>
-- 🔭 Sonhando com coisas que poderão vir a ser projectos inovadores <br/>
+- 🔭 Focar num objetivo até que ele seja concluído é um bom hábito <br/>
 - 🌱 Desenvolvendo com Node.js e Flutter ... <br/>
-- 😄 - "O humor influencia no jeito que desenvolvemos a lógica para resolver problemas."
 </div>
 
  <br>
